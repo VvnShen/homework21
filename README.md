@@ -8,8 +8,9 @@
 
 
 import 2 accounts from Ganache to metamask
-<img width="1193" alt="image" src="https://user-images.githubusercontent.com/88476898/151580109-1eb14050-9844-4d11-932f-8ddd503acf4d.png">
-<img width="319" alt="image" src="https://user-images.githubusercontent.com/88476898/151580154-4abcffb1-c782-44f3-8692-485ad1af0d6f.png">
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/88476898/151583048-6c9ad0f5-9c92-4d96-a2db-71628ac32d35.png">
+<img width="303" alt="image" src="https://user-images.githubusercontent.com/88476898/151583113-123d5b3d-3ade-46cf-8e4a-bd920643b678.png">
+
 
 then make sure environment change in 'injected web3', account is matching with the imported accounts in metamask.
 fill in Name, Symbol and initial supply to deploy contract: KaserCoin.
@@ -20,3 +21,10 @@ After confirm the transaction, second address below would have deducted gas fees
 so as in metamask.
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/88476898/151582929-0b460eb1-1138-4fea-a9da-2f2ab213ed4e.png">
 
+deploy in pretty much same way for KaseiCoinCrownsale.sol
+<img width="1350" alt="image" src="https://user-images.githubusercontent.com/88476898/151583872-3a138835-8f8a-4ba3-9c11-22ad030d7ad1.png">
+I was make my account 8 as wallet, account 9 as token
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/88476898/151584340-aa7397ed-8ed4-48ee-898f-74f688e6fdc3.png">
+
+
+<img width="353" alt="image" src="https://user-images.githubusercontent.com/88476898/151585340-34e77e45-f37a-4680-9e6c-9f1cf708b727.png">
