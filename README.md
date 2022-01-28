@@ -21,10 +21,21 @@ After confirm the transaction, second address below would have deducted gas fees
 so as in metamask.
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/88476898/151582929-0b460eb1-1138-4fea-a9da-2f2ab213ed4e.png">
 
-deploy in pretty much same way for KaseiCoinCrownsale.sol
-<img width="1350" alt="image" src="https://user-images.githubusercontent.com/88476898/151583872-3a138835-8f8a-4ba3-9c11-22ad030d7ad1.png">
-I was make my account 8 as wallet, account 9 as token
-<img width="280" alt="image" src="https://user-images.githubusercontent.com/88476898/151584340-aa7397ed-8ed4-48ee-898f-74f688e6fdc3.png">
+deploy in pretty much same way for KaseiCoinCrownsaleDeploer.sol
+<img width="1381" alt="image" src="https://user-images.githubusercontent.com/88476898/151588110-1efa4d14-f4b4-4839-83b9-829f1651d1c3.png">
+it then shows token address and crownsale address. 
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/88476898/151588232-58b5071c-798f-4ac2-b0b0-4524e143ef89.png">
+
+copy crownsale address: 0x4873e7C26d2022A32a03Cf7b82388C6AF362B566 to deploy KaseiCoinCrownsale.sol by putting the address to 'At Address'.
+<img width="322" alt="image" src="https://user-images.githubusercontent.com/88476898/151588505-a157c009-85bc-4935-9a87-c7afd869ab1f.png">
+
+then you can buy tokens by putting a benificiary address. 
+<img width="1388" alt="image" src="https://user-images.githubusercontent.com/88476898/151588990-aa1e3308-3080-48a4-a9ab-5b71f9838f3c.png">
+
+1 Wei raised for this transaction:
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/88476898/151589097-b29c837b-f26a-4739-8552-a457b7f3442c.png">
+
+then you can import token in metamask for the benificiary account:
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/88476898/151589411-119c5ff7-1812-47c6-ba4d-2e8372b43bc1.png">
 
 
-<img width="353" alt="image" src="https://user-images.githubusercontent.com/88476898/151585340-34e77e45-f37a-4680-9e6c-9f1cf708b727.png">
